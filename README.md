@@ -11,7 +11,7 @@ Here are a few screenshots of how the application looks running on a local machi
 ![Service Workers](https://ibb.co/yQxw40K)
 ![Database Index](https://ibb.co/Qrzf1yW)
 
-You can also use it here, deployed on Heroku.
+You can also use it [here]!(https://cryptic-earth-09147.herokuapp.com), deployed on Heroku.
 
 ## User Story
 
