@@ -29,7 +29,7 @@ module.exports = () => {
         short_name: 'JATE',
         description: 'A downloadable text editor for you to use on or offline!',
         start_url: './',
-        fingerprints: true,
+        fingerprints: false,
         inject: true,
         background_color: '#225ca3',
         theme_color: '#225ca3',
