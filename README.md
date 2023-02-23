@@ -1,4 +1,4 @@
-# TJ.A.T.E - Just Another Text Editor
+# J.A.T.E - Just Another Text Editor
 
 ## Description
 
