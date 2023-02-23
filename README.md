@@ -8,10 +8,10 @@ This is a progressive web application that allows for simple text editing. The n
 
 Here are a few screenshots of how the application looks running on a local machine:
 
-![Service Workers](https://ibb.co/yQxw40K)
-![Database Index](https://ibb.co/Qrzf1yW)
+![Service Workers](https://i.ibb.co/JsSf3n8/m19sw.png)
+![Database Index](https://i.ibb.co/XSNbvcn/m19db.png)
 
-You can also use it [here]!(https://cryptic-earth-09147.herokuapp.com), deployed on Heroku.
+You can also use it [here](https://cryptic-earth-09147.herokuapp.com), deployed on Heroku.
 
 ## User Story
 
